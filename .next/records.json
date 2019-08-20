@@ -1,0 +1,33 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/_app.js": 2,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/_error.js": 3,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/about.js": 4,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/counter.js": 5,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/index.js": 6,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/p/[id].js": 7,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/post.js": 8,
+      "static/runtime/main.js": 9
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

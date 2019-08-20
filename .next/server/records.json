@@ -1,0 +1,47 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_app.tsx": 0,
+      "multi private-next-pages/_document.tsx": 1,
+      "multi private-next-pages/about.tsx": 2,
+      "multi private-next-pages/counter.tsx": 3,
+      "multi private-next-pages/index.tsx": 4,
+      "multi private-next-pages/p/[id].tsx": 5,
+      "multi private-next-pages/post.tsx": 6,
+      "multi next/dist/pages/_error": 7
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/_app.js": 0,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/_document.js": 1,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/_error.js": 2,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/about.js": 3,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/counter.js": 4,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/index.js": 5,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/p/[id].js": 6,
+      "static/P2BIlkCLqMlyLfrOBGg1F/pages/post.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
